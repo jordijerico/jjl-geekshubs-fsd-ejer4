@@ -1,0 +1,78 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    width: 900px;
+    margin: 0 auto;
+    border: rgb(224, 224, 224) 5px solid;
+    margin-top: 10px;
+    font-weight: 500;
+
+}
+
+img {
+    margin-top: 10px;
+    margin-left: 15px;
+}
+
+hr {
+    border-color: rgb(199, 247, 199);
+}
+
+.colorNaranja {
+    color: orange
+}
+
+.colorVerde {
+    color: rgb(23, 231, 23)
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 4px;
+    color: rgb(29, 160, 29);
+}
+
+h1 span {
+    color: rgb(223, 135, 54);
+}
+
+ul {
+    margin-right: 26px;
+    list-style: none;
+    line-height: 45px;
+    margin-left: -22px;
+}
+
+.contenedor {
+    border: rgb(224, 224, 224) 2px solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: inline-block;
+    background: rgb(255, 255, 255);
+    background: linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(237, 237, 237, 1) 100%);
+    text-align: justify;
+}
+
+.flex {
+    display: flex;
+}
+
+button {
+    text-decoration: none;
+    width: 100px;
+    height: 33px;
+    border: rgb(223, 220, 220) 1px solid;
+    background: rgb(84, 255, 0);
+    background: linear-gradient(0deg, rgba(84, 255, 0, 1) 16%, rgba(255, 255, 255, 1) 63%);
+}
+
+a {
+    text-decoration: none;
+    padding: 5px;
+}
+
+footer {
+    text-align: center;
+    color: rgb(231, 229, 229);
+    margin-top: 5px;
+    font-style: italic;
+}
